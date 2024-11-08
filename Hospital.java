@@ -32,7 +32,7 @@ public class Hospital {
                 return;
             }
         }
-        System.out.println("Paciente não encontrado!");
+        System.out.println("Paciente não encontrado!!");
     }
 
     public void consultarPaciente(int numero) {
